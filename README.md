@@ -13,7 +13,7 @@ I kept all the screen shots of the notes in a Google Doc Diary.
 
 - [Course 4: Convolutional Neural Networks Diary](https://docs.google.com/document/d/1Xt2ZN0x2pGnRRX9-kefGU4J1UKriXTUsw-uob9MbDdY/edit?usp=sharing)
 
-- Screenshots for Course 5: Sequence Models
+- [Course 5: Sequence Models](https://docs.google.com/document/d/1-JTzwyhPpXAsqPsXqxqheFNJ0kFWngfWwvYcUjJNHxE/edit?usp=sharing)
 
 # Quiz Answers
 All the quizzes answers and some include my explanation. 
@@ -43,5 +43,7 @@ All the quizzes answers and some include my explanation.
 - - [Week 4](https://docs.google.com/document/d/1Xt2ZN0x2pGnRRX9-kefGU4J1UKriXTUsw-uob9MbDdY/edit#bookmark=id.254rgig0plpy)
 
 
-- Quiz for Course 5: Sequence Models
-
+- Course 5: Sequence Models
+- - [Week 1](https://docs.google.com/document/d/1-JTzwyhPpXAsqPsXqxqheFNJ0kFWngfWwvYcUjJNHxE/edit#heading=h.jrlpf03yzaj6)
+- - [Week 2]()
+- - [Week 3]()
