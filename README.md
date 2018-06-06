@@ -45,5 +45,5 @@ All the quizzes answers and some include my explanation.
 
 - Course 5: Sequence Models
 - - [Week 1](https://docs.google.com/document/d/1-JTzwyhPpXAsqPsXqxqheFNJ0kFWngfWwvYcUjJNHxE/edit#heading=h.jrlpf03yzaj6)
-- - [Week 2]()
+- - [Week 2](https://docs.google.com/document/d/1-JTzwyhPpXAsqPsXqxqheFNJ0kFWngfWwvYcUjJNHxE/edit#bookmark=id.f1lsxvkbezs1)
 - - [Week 3]()
